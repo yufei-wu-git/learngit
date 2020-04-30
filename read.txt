@@ -1,5 +1,5 @@
 Git is a version control system.
 git is free software
-It is veey good!
-add
-aaa
+It is veey good
+
+my boss is very stupid
